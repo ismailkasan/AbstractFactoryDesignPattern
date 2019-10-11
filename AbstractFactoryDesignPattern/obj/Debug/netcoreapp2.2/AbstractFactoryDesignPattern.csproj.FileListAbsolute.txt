@@ -1,0 +1,22 @@
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.deps.json
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.runtimeconfig.json
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.dll
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.pdb
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.dll
+C:\Users\impar\source\research\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.pdb
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.deps.json
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.runtimeconfig.json
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.dll
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.pdb
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.dll
+C:\Users\impar\source\research\Design Pattern\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\netcoreapp2.2\AbstractFactoryDesignPattern.pdb
