@@ -14,7 +14,7 @@ namespace AbstractFactoryDesignPattern.Modeller
         /// <returns></returns>
         public string GetArabaModeli()
         {
-            return "CLA 350";
+            return "CLS 350";
         }
     }
 }

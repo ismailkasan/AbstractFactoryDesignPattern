@@ -1,0 +1,13 @@
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/bin/Debug/netcoreapp3.1/AbstractFactoryDesignPattern
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/bin/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.deps.json
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/bin/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.runtimeconfig.json
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/bin/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.runtimeconfig.dev.json
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/bin/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.dll
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/bin/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.pdb
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/obj/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.csprojAssemblyReference.cache
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/obj/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/obj/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.AssemblyInfo.cs
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/obj/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/obj/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.dll
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/obj/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.pdb
+/home/ismail/Desktop/Demolar/netCore/AbstractFactoryDesignPattern/AbstractFactoryDesignPattern/obj/Debug/netcoreapp3.1/AbstractFactoryDesignPattern.genruntimeconfig.cache
